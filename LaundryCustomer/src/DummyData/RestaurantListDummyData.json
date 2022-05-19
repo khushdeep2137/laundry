@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "The Laundry Run",
+            "rating": 4.9,
+            "deliveryTime": "31min",
+            "description": "Ironing, Washing, Dry ...",
+            "deliveryFee": "3.45",
+            "imageIconPath": "https://5.imimg.com/data5/XS/XU/GLADMIN-40871312/laundry-services-500x500.png"
+        },
+        {
+            "id": 2,
+            "title": "Spin Cycle Laundering",
+            "rating": 4.9,
+            "deliveryTime": "31min",
+            "description": "Washing, Ironing, Dry ...",
+            "deliveryFee": "3.45",
+            "imageIconPath": "http://www.buymediaspace.com/resource/wp-content/uploads/2020/06/laundry.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Hands Off Laundry Help",
+            "rating": 4.9,
+            "deliveryTime": "31min",
+            "description":  "Dry , Washing, Ironing...",
+            "deliveryFee": "3.45",
+            "imageIconPath": "https://media.istockphoto.com/photos/laundry-service-picture-id459292777"
+        },
+        {
+            "id": 4,
+            "title": "Moving Laundry",
+            "rating": 4.9,
+            "deliveryTime": "31min",
+            "description": "Washing, Ironing, Dry ...",
+            "deliveryFee": "3.45",
+            "imageIconPath": "https://content.jdmagicbox.com/comp/def_content/laundry_services/default-laundry-services-5.jpg"
+        }
+    ]
+}
